@@ -1,0 +1,74 @@
+{
+  "DTMod:TheDT": {
+    "NAMES": [
+      "the Dragon Tamer",
+      "The Dragon Tamer"
+    ],
+    "TEXT": [
+      "The lucky magician who made a pact with Dragon. NL The duo will always fight together."
+    ]
+  },
+  "DTMod:Dragon": {
+    "NAMES": [
+      "Dragon"
+    ],
+    "TEXT": [
+      "Dragon is fainted and cannot move. At the end of combat, it will revive with #b1 HP."
+    ]
+  },
+  "DTMod:HighlightWords": {
+    "NAMES": [
+      "You",
+      "Dragon"
+    ],
+    "TEXT": [
+      "You.",
+      "Dragon."
+    ]
+  },
+  "DTMod:DragonGrowth": {
+    "NAMES": [
+      "Baby Dragon",
+      "Growing Dragon",
+      "Red Dragon",
+      "Blue Dragon",
+      "Green Dragon",
+      "Purple Dragon",
+      "Mature Dragon",
+      "Fierce Dragon",
+      "Ancient Dragon",
+      "Bird-Faced Dragon",
+      "Greedy Dragon"
+    ],
+    "TEXT": [
+      "",
+      "Gain [#87ceeb]6[] Max HP.",
+      "Start combat with\n[#87ceeb]1[] Strength.",
+      "Start combat with\n[#87ceeb]1[] Dexterity.",
+      "Start combat with\n[#87ceeb]2[] Bonding.",
+      "Draw [#87ceeb]4[] additional\ncards on turn [#87ceeb]2[].",
+      "Gain [#87ceeb]8[] Max HP.",
+      "Gain [#87ceeb]1[] energy whenever\na Burn is created.",
+      "Start combat with\n[#87ceeb]3[] Artifact.",
+      "Heal [#87ceeb]2[] HP whenever\nyou play a Power card.",
+      "Gain [#87ceeb]75[] additional gold\nfrom combats.",
+      "Requires ",
+      "",
+      " Attacks",
+      " Skills",
+      " Bonding cards",
+      " Tactic cards",
+      "",
+      " Burn cards",
+      " cards\nfrom other color",
+      " Powers",
+      " cards",
+      "Bonding Card",
+      "Cards which gives you Bonding, or have interaction with Bonding.",
+      "Tactic Card",
+      "Cards with \"Tactic\" in its name.",
+      "Burn Card",
+      "Cards which shows Burn when hovered."
+    ]
+  }
+}

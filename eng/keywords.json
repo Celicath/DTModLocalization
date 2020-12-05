@@ -1,0 +1,62 @@
+[
+  {
+    "PROPER_NAME": "Bonding",
+    "NAMES": [
+      "bonding"
+    ],
+    "DESCRIPTION": "Whenever your team gains #b5 #yBonding, choose #b1 of #b3 random bonuses. NL Only works while [#60D0D0]Dragon[] is alive."
+  },
+  {
+    "PROPER_NAME": "Aggro",
+    "NAMES": [
+      "aggro"
+    ],
+    "DESCRIPTION": "Whenever [#60D0D0]You[] or [#60D0D0]Dragon[] attacks, the attacker gains #b1 Aggro. The character with higher Aggro becomes the #yFront, taking all attacks."
+  },
+  {
+    "PROPER_NAME": "Front",
+    "NAMES": [
+      "front"
+    ],
+    "DESCRIPTION": "The character marked with Front Marker. NL All enemies attack the Front."
+  },
+  {
+    "PROPER_NAME": "Rear",
+    "NAMES": [
+      "rear"
+    ],
+    "DESCRIPTION": "The character not marked with Front Marker."
+  },
+  {
+    "PROPER_NAME": "Switch",
+    "NAMES": [
+      "switch",
+      "switched"
+    ],
+    "DESCRIPTION": "The #yFront becomes the #yRear, and vice versa. NL Switch happens when the #yAggro of the #yRear becomes higher than the #yFront."
+  },
+  {
+    "PROPER_NAME": "Taunt",
+    "NAMES": [
+      "taunt",
+      "taunts"
+    ],
+    "DESCRIPTION": "When an enemy is Taunted, it will always attack the Taunter, not the Front. NL Taunt lasts for 1 turn."
+  },
+  {
+    "PROPER_NAME": "Channeling",
+    "NAMES": [
+      "channeling"
+    ],
+    "DESCRIPTION": "If [#60D0D0]You[] attack or an enemy attacks [#60D0D0]You[] before the effect kicks in, it is cancelled."
+  },
+  {
+    "PROPER_NAME": "Blaze Potion",
+    "NAMES": [
+      "blaze potion",
+      "blaze_potion",
+      "blaze_potions"
+    ],
+    "DESCRIPTION": "A potion which deals #b40 damage to an enemy."
+  }
+]

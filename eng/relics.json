@@ -1,0 +1,110 @@
+{
+  "DTMod:PactStone": {
+    "NAME": "Pact Stone",
+    "FLAVOR": "The evidence of your friendship.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, [#60D0D0]You[] and [#60D0D0]Dragon[] gain #b",
+      " #yTemporary_HP each."
+    ]
+  },
+  "DTMod:DragonTamerSkillbook": {
+    "NAME": "Dragon Tamer's Skillbook",
+    "FLAVOR": "Now the dragon is capable of helping people other than the master.",
+    "DESCRIPTIONS": [
+      "Whenever you play a card that affects both you and another character, gain #b1 #yragontaer:Bonding.",
+      " NL NL #yMulticlass Dragon Tamer"
+    ]
+  },
+  "DTMod:BasicTextbook": {
+    "NAME": "Basic Textbook",
+    "FLAVOR": "Basic skills are the most important things to learn.",
+    "DESCRIPTIONS": [
+      "Increase the damage of Strike and #yBlock from Target Defense by #b",
+      " [REMOVE_SPACE]."
+    ]
+  },
+  "DTMod:OddArmor": {
+    "NAME": "Odd Armor",
+    "FLAVOR": "Because it looks odd, people don't want to wear it even though it's powerful.",
+    "DESCRIPTIONS": [
+      "On odd-numbered turns, [#60D0D0]Dragon[] takes #b",
+      " less damage from attacks. NL On even-numbered turns, [#60D0D0]You[] take #b",
+      " less damage from attacks."
+    ]
+  },
+  "DTMod:MagicStone": {
+    "NAME": "Magic Stone",
+    "FLAVOR": "The Pact Stone absorbed weird magic.",
+    "DESCRIPTIONS": [
+      "Replaces #yPact #yStone. At the start of each combat, [#60D0D0]You[] and [#60D0D0]Dragon[] heal #b",
+      " HP. NL During combat, excess amount of healing is converted to #yTemporary_HP."
+    ]
+  },
+  "DTMod:DragonFood": {
+    "NAME": "Dragon Food",
+    "FLAVOR": "It's delicious to humans too.",
+    "DESCRIPTIONS": [
+      "At the end of combat, [#60D0D0]Dragon[] heals #b",
+      " HP."
+    ]
+  },
+  "DTMod:AncientBone": {
+    "NAME": "Ancient Bone",
+    "FLAVOR": "Essence of primal technology.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a #yHard #ySkin into your hand."
+    ]
+  },
+  "DTMod:TacticalNote": {
+    "NAME": "Tactical Note",
+    "FLAVOR": "Filled with practical advices.",
+    "DESCRIPTIONS": [
+      "All cards containing \"Tactic\" have their effects boosted.",
+      "Bonus Effects",
+      "#bSwitching #bTactic - Enemies lose 2 more Strength.",
+      "#bBizarre #bTactic - Gain 2 more Block, deal 2 more damage.",
+      "#bRunning #bTactic - Draw 1 additional card.",
+      "#bEcho #bTactic - Now costs 0.",
+      "#bOpening #bTactic - Gain 1 additional Dexterity if the enemy has full HP."
+    ]
+  },
+  "DTMod:SwitchButton": {
+    "NAME": "Switch Button",
+    "FLAVOR": "Do NOT touch this button!",
+    "DESCRIPTIONS": [
+      "[#2aecd7]Once [#2aecd7]per [#2aecd7]combat, [#2aecd7]right [#2aecd7]click [#2aecd7]to [#2aecd7]activate.[] [#60D0D0]You[] and [#60D0D0]Dragon[] swaps #yragontaer:Aggro."
+    ]
+  },
+  "DTMod:SolidMemories": {
+    "NAME": "Solid Memories",
+    "FLAVOR": "The origin form of Liquid Memories.",
+    "DESCRIPTIONS": [
+      "At the start of turn #b",
+      " [REMOVE_SPACE], #yFetch a card from your discard pile. It costs #b0 for the turn."
+    ]
+  },
+  "DTMod:BindingString": {
+    "NAME": "Binding String",
+    "FLAVOR": "The combination of two fighters is better when they are close.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, if [#60D0D0]You[] and [#60D0D0]Dragon[] have the same #yragontaer:Aggro, gain #b",
+      " #yragontaer:Bonding."
+    ]
+  },
+  "DTMod:TheChair": {
+    "NAME": "The Chair",
+    "FLAVOR": "This comfortable chair makes you energized, but switching from rest mode becomes harder. Unless you're talented.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. On turn #b1, you only draw #yInnate cards and cards in Bottle relics."
+    ]
+  },
+  "DTMod:MindBender": {
+    "NAME": "Mind Bender",
+    "FLAVOR": "Banned outside of spire.",
+    "DESCRIPTIONS": [
+      "When you play a card that let you choose the attacker, you may pick any enemy as the attacker.",
+      "'Choose the Attacker' cards",
+      "- Reckless Flurry NL - Taunting Strike NL - Tri Attack"
+    ]
+  }
+}
