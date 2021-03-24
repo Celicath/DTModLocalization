@@ -1,7 +1,9 @@
 # The Dragon Tamer Mod Localization
 
-This repository contains the localization files for Dragon Tamer mod. I've made the main repository(DTMod) private for personal reasons. I will make the main repository public in the future, which will make this repository obsolete.
+This repository contains the localization files for Dragon Tamer mod. ~~I've made the main repository(DTMod) private for personal reasons. I will make the main repository public in the future, which will make this repository obsolete.~~
 
+Now that I changed the [DTMod](https://github.com/Celicath/DTMod) repository public, I'm archiving this repository. The latest localization files are here:
+https://github.com/Celicath/DTMod/tree/master/src/main/resources/DTMod/localization
 
 ## Basics
 
